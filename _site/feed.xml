@@ -1,69 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Lana Marshall | Design | Art Direction</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Graphic Designer in Austin, TX">
+
+    <!-- Google Verification -->
+    <meta name="google-site-verification" content="n7nBOmbCNUnHy7_NcZW6cGWFXBwtnI5aJ5OrQYeiFAg" />
+
+
+    <link rel="canonical" href="/feed.xml">
+
+    <!-- Google Fonts -->
+    <!-- <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>-->
+
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+    
+    <!-- Typekit Js -->
+    <script src="//use.typekit.net/vqf0pzi.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+
+    <!-- Header CSS -->
+    <link rel="stylesheet" href="/css/header.css">
+
+    <!-- Resume CSS -->
+    <link rel="stylesheet" href="/css/resume.css">
+
+    <!-- Foundation CSS -->
+    <link rel="stylesheet" href="/css/foundation.css"> 
+
+    <!-- Klinic Slab CSS -->
+    <link rel="stylesheet" href="/css/klinic-slab/stylesheet.css" type="text/css" charset="utf-8" /> 
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+</head>
+
+
+  <body>
+
+    <div class="contain center headroom clearfix">
+      <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lana Marshall</title>
+    <title>Lana Marshall | Design | Art Direction</title>
     <description>Graphic Designer in Austin, TX</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 02 Sep 2014 12:20:40 -0500</pubDate>
-    <lastBuildDate>Tue, 02 Sep 2014 12:20:40 -0500</lastBuildDate>
-    <generator>Jekyll v2.1.1</generator>
-    
-      <item>
-        <title>Whole Foods</title>
-        <description>
-</description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
-        <link>/whole-foods/</link>
-        <guid isPermaLink="true">/whole-foods/</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Social Distillery</title>
-        <description>
-</description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
-        <link>/social-distillery/</link>
-        <guid isPermaLink="true">/social-distillery/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>MakerSquare</title>
-        <description>
-</description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
-        <link>/makersquare/</link>
-        <guid isPermaLink="true">/makersquare/</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Cancer Treatment Centers of America</title>
-        <description>
-</description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
-        <link>/ctca/</link>
-        <guid isPermaLink="true">/ctca/</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
+    <pubDate>Sun, 01 Mar 2015 16:18:42 -0600</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2015 16:18:42 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
   </channel>
 </rss>
+
+    </div>
+
+  </body>
+</html>

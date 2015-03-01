@@ -4,185 +4,70 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Lana Marshall</title>
+    <title>Lana Marshall | Design | Art Direction</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Graphic Designer in Austin, TX">
+
+    <!-- Google Verification -->
+    <meta name="google-site-verification" content="n7nBOmbCNUnHy7_NcZW6cGWFXBwtnI5aJ5OrQYeiFAg" />
+
+
     <link rel="canonical" href="/">
 
     <!-- Google Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
+    <!-- <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>-->
 
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
-
-    <!-- Font Awesome -->
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
     
+    <!-- Typekit Js -->
+    <script src="//use.typekit.net/vqf0pzi.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="/css/main.css">
+
+    <!-- Header CSS -->
+    <link rel="stylesheet" href="/css/header.css">
+
+    <!-- Resume CSS -->
+    <link rel="stylesheet" href="/css/resume.css">
 
     <!-- Foundation CSS -->
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/foundation.css"> 
+    <link rel="stylesheet" href="/css/foundation.css"> 
+
+    <!-- Klinic Slab CSS -->
+    <link rel="stylesheet" href="/css/klinic-slab/stylesheet.css" type="text/css" charset="utf-8" /> 
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
 </head>
 
 
-    <body>
+  <body>
 
-    <header id="header" class="clearfix">
-
-  <div class="contain center">
-    <div class="logo">
-      <h1 id="logo"><a href="">Lana Marshall</a></h1>
+    <div class="contain center headroom clearfix">
+      <div class="home gallery-contain row">
+	<div class="landing landing-contact text-center small-12 columns small-center">
+  <div class="resume-logomark center">
+    <a href="http://lanamarshall.com/">
+      <img src="/img/logomark.png">
+    </a>
     </div>
-    
-    <nav class="main-nav">
-        <a href="">Portfolio</a>
-        
-          
-          <a href="about/">About</a>
-          
-        
-          
-          <a href="contact/">Contact</a>
-          
-        
-          
-        
-          
-        
-        
-    </nav>
-  </div>
-
-</header>
-
-
-    <div class="contain center">
-      <div class="headroom clearfix">
-      
-
-
-
-
-
-
-
-
-
-<!--
-
-<div class="home row">
-
-  
-   
-  <div class="thumb-container small-12 medium-6 large-4 columns">
-        
-      <a class="portfolio-thumb" href="whole-foods/">
-        <img src="img/thumbnails/wfm-thumb.jpg">
-      </a>
-
-  </div>
-  
-
-</div>
-
-<div class="home row">
-
-  
-  
-
-</div>
-
-<div class="home row">
-
-  
-  
-
-</div>
-
-<div class="home row">
-
-  
-  
-
-</div>
-
--->
-
-      </div>
+      <h1 class="main-headline">Lana Marshall</h1>
+      <h2>Graphic Design & Art Direction</h2>
+      <ul class="landing-contact resume-block">    
+          <li>Austin, Texas</li>
+          <li><a href="mailto:hello@lanamarshall.com">hello@lanamarshall.com</a></li>
+          <li><a href="tel:1-512-965-4437">512.965.4437</a></li>
+          <li></li>
+      </ul>
+    <div class="site-link">
+      <p>My portfolio may be found at <a href="http://lanamarshall.com/">lanamarshall.com</a>.</p>
     </div>
-
-    
-
-<section id="footer">
-  <footer class="site-footer row">
-
-      <div class="copyright small-12 columns">
-        <p>© 2014 Lana Marshall</p>
-      </div>
-
-  </footer>
-</section>
-
-
-
-      <!-- jQuery -->
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-
-      <!-- Foundation JS -->
-
-      <!-- <script>
-        $(window).bind("load", function () {
-            var footer = $("#footer");
-            var pos = footer.position();
-            var height = $(window).height();
-            height = height - pos.top;
-            height = height - footer.height();
-            if (height > 0) {
-                footer.css({
-                    'margin-top': height + 'px'
-                });
-            }
-        });
-      </script> -->
-
-
-      <!-- Sticky Shrinking Header -->
-      <script src="js/classie.js"></script>
-      <script>
-        $(document).ready(function(){
-          function init() {
-              window.addEventListener('scroll', function(e){
-                  var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-                      shrinkOn = 100,
-                      header = document.querySelector("header");
-                  if (distanceY > shrinkOn) {
-                      classie.add(header,"smaller");
-                  } else {
-                      if (classie.has(header,"smaller")) {
-                          classie.remove(header,"smaller");
-                      }
-                  }
-              });
-          }
-          window.onload = init();
-        });
-      </script>
-
-
-      <!-- Sticky Footer
-      <script type="text/javascript">
-        $(document).ready(function(){
-            $(window).resize(function(){
-                var footerHeight = $('.footer').outerHeight();
-          var stickFooterPush = $('.push').height(footerHeight);  
-          $('.wrapper').css({'marginBottom':'-' + footerHeight + 'px'});
-            });   
-            $(window).resize();
-        });
-      </script>
-      -->
+</div>  
+</div>
+    </div>
 
   </body>
 </html>
