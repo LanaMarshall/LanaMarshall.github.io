@@ -4,21 +4,25 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Lana Marshall | Design | Art Direction</title>
+    <title>Lana Marshall | Design | Creative</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="Graphic Designer in Austin, TX">
+    <meta name="description" content="Seattle Visual Designer and Creative">
 
     <!-- Google Verification -->
     <meta name="google-site-verification" content="n7nBOmbCNUnHy7_NcZW6cGWFXBwtnI5aJ5OrQYeiFAg" />
 
 
-    <link rel="canonical" href="/feed.xml">
+    <link rel="canonical" href="http://localhost:1117/portfolio/feed.xml">
 
     <!-- Google Fonts -->
-    <!-- <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>-->
+    <!-- <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
 
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>-->
     
+    
+    <!-- Foundation CSS -->
+    <link rel="stylesheet" href="/css/foundation.min.css"> 
+
     <!-- Typekit Js -->
     <script src="//use.typekit.net/vqf0pzi.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
@@ -26,14 +30,8 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
 
-    <!-- Header CSS -->
-    <link rel="stylesheet" href="/css/header.css">
-
     <!-- Resume CSS -->
     <link rel="stylesheet" href="/css/resume.css">
-
-    <!-- Foundation CSS -->
-    <link rel="stylesheet" href="/css/foundation.css"> 
 
     <!-- Klinic Slab CSS -->
     <link rel="stylesheet" href="/css/klinic-slab/stylesheet.css" type="text/css" charset="utf-8" /> 
@@ -46,22 +44,221 @@
 
   <body>
 
+    <header id="header" class="clearfix">
+
+  <div class="contain center">
+    
+    <div class="logo">
+    	<h1 id="logo"><a href="/"><!--<img src="/img/logomark.png">--><span>Lana Marshall</span></a></h1>
+    </div>
+    
+    <div id="main-nav" class="nav"><ul>
+    
+        <li>
+            <a href="/"> work</a>
+        </li>
+    
+        <li>
+            <a href="/about/"> about</a>
+        </li>
+    
+        <li>
+            <a href="/contact/"> contact</a>
+        </li>
+    
+</ul></div>
+        
+  </div>
+
+</header>
+
+
     <div class="contain center headroom clearfix">
       <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lana Marshall | Design | Art Direction</title>
-    <description>Graphic Designer in Austin, TX</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Mar 2015 16:18:42 -0600</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2015 16:18:42 -0600</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <title>Lana Marshall | Design | Creative</title>
+    <description>Seattle Visual Designer and Creative</description>
+    <link>http://localhost:1117/portfolio/</link>
+    <atom:link href="http://localhost:1117/portfolio/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 11 Apr 2023 14:17:37 -0700</pubDate>
+    <lastBuildDate>Tue, 11 Apr 2023 14:17:37 -0700</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Empty State Animations</title>
+        <description>
+</description>
+        <pubDate>Mon, 16 May 2022 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/portfolio/animations/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/animations/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Microsoft</title>
+        <description>
+</description>
+        <pubDate>Thu, 16 May 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/portfolio/microsoft/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/microsoft/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Trip Planner</title>
+        <description>
+</description>
+        <pubDate>Tue, 20 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/portfolio/trip-planner/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/trip-planner/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>RideTap</title>
+        <description>
+</description>
+        <pubDate>Tue, 20 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/portfolio/ridetap/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/ridetap/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>JW Marriott Austin Griffin Hunt</title>
+        <description>
+</description>
+        <pubDate>Mon, 16 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/portfolio/griffin-hunt/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/griffin-hunt/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Social Distillery Swag</title>
+        <description>
+</description>
+        <pubDate>Thu, 05 Mar 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:1117/portfolio/sd-swag/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/sd-swag/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CTCA Breast Cancer Awareness Infographic</title>
+        <description>
+</description>
+        <pubDate>Wed, 04 Mar 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:1117/portfolio/ctca-breastcancer/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/ctca-breastcancer/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SXSW Happy Hour</title>
+        <description>
+</description>
+        <pubDate>Wed, 25 Feb 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:1117/portfolio/happy-hour/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/happy-hour/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>People Pattern Animated Illustrations</title>
+        <description>
+</description>
+        <pubDate>Fri, 20 Feb 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:1117/portfolio/people-pattern/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/people-pattern/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Whole Foods</title>
+        <description>
+</description>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/portfolio/whole-foods/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/whole-foods/</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
 
     </div>
+
+    <footer  class="site-footer row"><div class="copyright small-12 columns">
+    <div class="row nav">
+    	<ul>
+    
+        <li>
+            <a href="/"> work</a>
+        </li>
+    
+        <li>
+            <a href="/about/"> about</a>
+        </li>
+    
+        <li>
+            <a href="/contact/"> contact</a>
+        </li>
+    
+</ul>
+    </div>
+    <p>© 2023 Lana Marshall | Design | Creative</p>
+</div>
+</footer>
+
+
+      <!-- jQuery -->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+
+
+      <!-- Sticky Shrinking Header -->
+      <script src="/js/classie.js"></script>
+      <script>
+        $(document).ready(function(){
+          function init() {
+              window.addEventListener('scroll', function(e){
+                  var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+                      shrinkOn = 100,
+                      header = document.querySelector("header");
+                  if (distanceY > shrinkOn) {
+                      classie.add(header,"smaller");
+                  } else {
+                      if (classie.has(header,"smaller")) {
+                          classie.remove(header,"smaller");
+                      }
+                  }
+              });
+          }
+          window.onload = init();
+        });
+      </script>
+
+      <!-- Selected Menu Link Styling -->
+      <script type="text/javascript">
+        $(document).ready(function(){
+            $('#main-nav a').each(function(index) {
+                if(this.href.trim() == window.location)
+                    $(this).addClass("selected");
+            });
+        });
+      </script>
+
 
   </body>
 </html>

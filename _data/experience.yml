@@ -1,37 +1,62 @@
+- org:  Smashing Ideas
+  role: Product Designer
+  location: 'Seattle, Washington'
+  when: December 2020 to Present
+  bullets: 
+    - 'Technical design work for a client in the aerospace industry.'
+    - 'Used scripting in Illustrator and Photoshop to create and test iPad app screens.'
+
+- org:  Microsoft
+  role: Product Designer
+  location: 'Redmond, Washington'
+  when: December 2019 to September 2020
+  bullets: 
+    - 'Designed UI for dual screen app demos for Microsoft DevDays event.'
+    - 'Helped adapt third party apps for dual screen devices.'
+    - 'Supported the PWA Builder team.'
+
+- org:  Microsoft
+  role: Designer II
+  location: 'Redmond, Washington'
+  when: November 2017 to April 2019
+  bullets: 
+    - 'UI/UX for Microsoft’s digital storefront on web, desktop app and Xbox.'
+    - 'Worked to improve payment and product configuration experiences.'
+    - 'Created and animated brand illustrations for mobile and web.'
+    - 'Main point of contact for all Edge browser iconography needs.'
+
+- org:  moovel
+  role: Visual Designer
+  location: 'Austin, Texas'
+  when: November 2015 to February 2017
+  bullets: 
+    - 'UI/UX for mobile apps in public transportation and mobility industry.'
+    - 'Collaborated with product designers and developers to craft beautiful user experiences.' 
+    - 'Created illustrations and motion graphics for marketing team.'
+
 - org:  Social Distillery
   role: Creative Director
   location: 'Austin, Texas'
-  when: September 2014 to Present
+  when: September 2014 to June 2015
   bullets: 
-    - 'Led and carried out a revamp of Social Distillery’s branding, including logo updates, new brand collateral and comprehensive brand guidelines.'
-    - 'Rewrote prominent sections of copy on Social Distillery’s website to more effectively communicate brand message.' 
-    - 'Collaborated with small team on creative strategy of social media campaigns.' 
-    - 'Managed graphic designer to help complete graphic requests.'
+    - 'Led and carried out a complete revamp of Social Distillery’s branding.'
+    - 'Rewrote prominent sections of copy on Social Distillery’s website.' 
+    - 'Collaborated with small team on social campaign creative strategies.' 
+    - 'Managed graphic design team.'
 
 - org: Social Distillery
   role: Graphic Designer
   location: 'Austin, Texas'
   when: December 2012 to September 2014
   bullets: 
-    - 'Established role as sole graphic designer for Social Distillery.'
-    - 'Designed social content and channel graphics for a variety of B2B and B2C clients.'
-    - 'Worked within tight turnaround times.'
+    - 'Established the role of graphic designer within Social Distillery.'
+    - 'Designed social content and graphics for various B2B and B2C clients, including Whole Foods and Cancer Treatment Centers of America.'
     - 'Interviewed and collaborated with design interns.'
-    - 'Created social ad graphics for multiple Whole Foods Market openings.'
-    - 'Designed infographics for Cancer Treatment Centers of America.'
-
+   
 - org: Social Distillery
   role: Design Intern
   location: 'Austin, Texas'
   when: July 2012 to December 2012
   bullets: 
-    - 'Maintained all internal graphic design standards.'
-    - 'Executed social graphics and social channel branding for Social Distillery’s clients, including Jive Software and Playboy Fragrances.'
     - 'Branded various Social Distillery documents and presentations.'
-
-- org: Hyatt Regency San Antonio
-  role: Freelance Graphic Designer
-  location: 'San Antonio, Texas'
-  when: June 2012
-  bullets:
-    - Designed promotional material for the hotel’s restaurant.
+    - 'Executed social graphics and branding for Social Distillery’s clients.'

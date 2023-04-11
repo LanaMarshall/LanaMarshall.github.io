@@ -1,42 +1,27 @@
 /* -- Name, logo, info Left Column -- */
-.landing h1 {
+.resume h1 {
 	font-family: 'nimbus-sans', sans-serif;
 	font-weight: 300;
 	font-size: 1.3em;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	color: #777777;
-	margin-bottom: 0;
 }
 
-.landing-contact a, .landing-contact li, .landing-contact p {
+.resume-contact a, .resume-contact li, .resume-contact p {
 	font-family: 'klinic_slablight', serif;
 	color: #777777;
 }
 
-.landing-contact ul{
-	list-style: none;
-}
-
-.landing-contact {
-	margin-bottom: 20px;
-	margin-top: 15px;
-}
-
-.site-link {
+.resume-print-link {
 	margin-top: 40px;
 }
 
-.site-link a {
+.resume-print-link a {
 	font-family: 'nimbus-sans', sans-serif;
 	font-weight: 300;
+	text-transform: uppercase;
 	color: #F09648;
-}
-
-.site-link p {
-	font-family: 'nimbus-sans', sans-serif;
-	font-weight: 300;
-	color: #777777;
 }
 
 .resume-logomark{
@@ -46,14 +31,16 @@
 
 
 /* -- Section Titles -- */
-.landing h2 {
-	font-family: 'klinic_slabbook', serif;
-	font-size: 1.1em;
-	color: #777777;
+.resume h2 {
+	font-family: 'klinic_slablight', serif;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #F09648;
 }
 
 /* -- Company Name -- */
-.landing h3 {
+.resume h3 {
 	font-family: 'klinic_slabbold', serif;
 	font-size: 1em;
 	text-transform: uppercase;
@@ -62,15 +49,20 @@
 }
 
 /* -- Company Role -- */
-.landing h4 {
+.resume h4 {
 	font-family: 'klinic_slabbold_italic', serif;
 	font-size: 1em;
 	color: #777777;
 	margin: 0;
 }
 
-.landing li {
+.resume li {
 	padding-top: 0;
+	font-size: .9em;
+}
+
+.resume-contact li {
+	font-size: 1em;
 }
 
 .when {
@@ -84,19 +76,29 @@
 	content:' — ';
 }
 
-.landing ul {
-	list-style: none;
-	list-style-type: none;
-	padding: 0;
-	margin: 0;
+.resume ul, .role-description ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
 }
 
+.role-description li {
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+.role-description li:before {
+  content: "+";
+  padding-right: 5px;
+}
 
 .resume-section {
 	margin-bottom: 50px;
 }
 
-
+.resume-block {
+	margin-bottom: 20px;
+}
 
 /* --- Skills Columns --- */
 .skills .columns {

@@ -1,32 +1,33 @@
 - category: Software
   bullets: 
-    - 'Mac OS X'
     - 'Illustrator'
     - 'InDesign'
     - 'Photoshop'
     - 'After Effects'
-    - 'Dreamweaver'
-    - 'MS Office'
-    - 'Flash'
+    - 'XD'
+    - 'Figma'
+    - 'Sketch'
+    - 'InVision'
+
 
 - category: Design
   bullets: 
+    - 'UI/UX'
     - Digital
     - Print
-    - Packaging
     - Branding
-    - Social Media
+    - Iconography
+    - Illustration
     - Motion Graphics
-    - Silkscreen
     - Photography
+
 
 - category: Web
   bullets: 
     - HTML
     - CSS
     - GitHub
-    - Foundation
-    - Jekyll
     - Javascript
-    - JQuery
+    - Wordpress
     - SEO
+
