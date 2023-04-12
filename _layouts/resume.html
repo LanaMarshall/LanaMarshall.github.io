@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="resume">
+
+	
+	<!-- Logo and Contact Info, left side on desktop -->
+	<div class="resume-contact text-center small-12 medium-4 columns">
+	    <div class="resume-logomark center">
+			<a href="/">
+				<img src="{{ site.logomark }}">
+			</a>
+		</div>
+	    <h1 class="main-headline">{{ page.headline }}</h1>
+	    <ul class="resume-contact resume-block">   	
+	        <li>{{ site.location }}</li>
+			<li>{{ site.email }}</li>
+			<li>{{ site.phone }}</li>
+			<li>{{ content }}</li>
+	    </ul>
+	    <div class="resume-print-link">
+	    	<p><a href="{{ site.resume }}" target="_blank">Print Resume</a></p>
+	    </div>
+	</div>   
+
+	<!-- Education, Experience and Skills sections -->
+	<!-- add new sections using sections.yml -->
+	<div class="resume-right small-12 medium-8 large-8 columns end">
+		{% for section in site.data.sections %}    
+			<div class="resume-section row">
+			    <div><h2>{{ section.name }}</h2></div>
+			    {% include resume/{{ section.layout }} %}
+			</div>
+		{% endfor %}
+	</div>
+
+
+</div>
