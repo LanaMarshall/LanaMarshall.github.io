@@ -1,15 +1,11 @@
 ---
 layout: about
 title: About
-headline: Hello!
+headline: Howdy!
 permalink: about/
-img: img/headshot-2023.jpg
+img: img/headshot.jpg
 ---
 
-I'm Lana Marshall and I'm a designer living and working in {{ site.location }}.
-
-Born and raised in Austin, Texas, I moved to New York fresh out of high school to attend Pratt Institute. After graduating with my B.A. in Communications Design, I returned to Austin and worked as a freelance designer before joining the team at Social Distillery, a social media marketing startup, establishing the role of Graphic Designer within the agency and working my way up to Creative Director. In 2015, I delved back into the freelance world, which ultimately led me to moovel North America (formerly RideScout). At moovel, I worked with the product design team to create beautiful, functional user experiences for mobile apps in the public transportation and mobility industries until the company closed it's Austin offices. 
-
-In 2017, I relocated to Seattle, where I worked with Microsoft before joining the team at Smashing Ideas. I'm currently open to new opportunities.
+I’m Lana Marshall, a multidisciplinary designer based in Seattle. I have 10 years of experience including product-side and agency positions, from startups to international corporations. My design work covers a wide variety of genres, including product design, graphic design, branding, iconography, illustration, social media marketing campaigns, motion graphics and print. My professional experience includes 4 1/2 years of working for tech startups, where I learned to understand and thrive in a fast-paced, creative, high energy culture with cross-functional collaboration. I also come with a solid working knowledge of HTML and CSS, having completed a 12-week front end development boot camp. When I’m not working, I enjoy biking, traveling and film photography.
 
 If you have questions about my work or are interested in working together, please feel free to <a href="/contact/">get in touch</a>.

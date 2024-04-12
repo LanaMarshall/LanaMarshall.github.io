@@ -338,10 +338,10 @@ header.smaller img {
 
 /* Caption Text Styling */
 .portfolio-img-column .project-img-caption h3 {
-    font-family: 'klinic_slabbold_italic', serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1.2em;
     margin: 0 0 5px 0;
-    color: #999;
+    color: #323232;
 }
 
 .portfolio-img-column .project-img-caption p {
@@ -349,7 +349,7 @@ header.smaller img {
     font-size: .85em;
     font-weight: 400;
     letter-spacing: .01em;
-    color: #adadad;
+    color: #777;
     line-height: 180%
 }
 
