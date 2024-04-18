@@ -1,20 +1,27 @@
 ---
-- title: Microsoft
+- title: Microsoft Store Configurator
+  gallery-title: Microsoft Configurator
+  type: Cross-Platform UI
   weight: 0
-  id: microsoft
-  permalink: microsoft/
+  id: microsoft-configurator
+  permalink: microsoft-configurator/
   category: 
   published: true
   description: "Please contact me for a sampling of my Microsoft work, which includes UX/UI design, iconography, illustrations and motion design."
+  header-image: rt-logo.png
   learn-more-link: "/contact/"
   learn-more-text: "Contact me"
   thumb: img/microsoft/ms-logo.png
-  video: "//player.vimeo.com/video/205441657?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
   imagefolder: img/microsoft
   images:
     - name: rt-logo.png
+      orientation: left
+      header: "This is a cute title."
+      caption: "Trip Planner was designed to easily integrate into existing transit apps. The tool opens as an overlay on top of the app interface. It can be closed quickly to access other areas of the app and reopens in the spot the user left off. The screen on the right is an empty state shown on the first time user experience."
     - name: rt-logo-sketch3.jpg
     - name: rt-demo.gif
+      header: Easy Integration
+      caption: "Trip Planner was designed to easily integrate into existing transit apps. The tool opens as an overlay on top of the app interface. It can be closed quickly to access other areas of the app and reopens in the spot the user left off. The screen on the right is an empty state shown on the first time user experience."
     - name: rt-phone-hands.png
     - name: rt-multimodal.png
     - name: rt-network.png
@@ -28,6 +35,7 @@
 
 
 - title: RideTap
+  gallery-title:
   weight: 1
   id: ridetap
   permalink: ridetap/

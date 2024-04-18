@@ -271,9 +271,10 @@ header.smaller img {
 /* -------------------- THUMBNAIL GALLERY -------------------- */ 
 
 
-.thumb-container {
+.gallery-img {
 	overflow: hidden;
 	margin: .5em 0;
+    border-radius: 6px;
 }
 
 .portfolio-thumb:hover {
@@ -301,6 +302,25 @@ header.smaller img {
 
 .gallery-contain li {
     padding:0 0.25rem .5rem;
+}
+
+
+.gallery-card-label a{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #34421e;
+}
+
+.gallery-card-label h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: .8em;
+    font-weight: 100;
+    color: #34421e;
+}
+
+.gallery-card-label{
+    padding: 4px 0px 10px 0px;
 }
 
 @media only screen and (max-width: 40em) {

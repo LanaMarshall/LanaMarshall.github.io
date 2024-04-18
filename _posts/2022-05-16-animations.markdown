@@ -1,8 +1,8 @@
 ---
 layout: portfolio-entry
-title:  "Empty State Animations"
-projectid: animations
-permalink: animations/
+title:  "Microsoft Pay"
+projectid: ms-pay
+permalink: microsoft-pay/
 order: {{ project.order }}
 published: {{ project.published }}
 ---

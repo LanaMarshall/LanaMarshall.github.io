@@ -1,6 +1,31 @@
 {% assign sorted_projects = site.data.projects | sort: "weight" %}
 
-<ul class="gallery small-block-grid-2 medium-block-grid-4">	    	
+
+<div class="gallery row">	    	
+
+	{% for project in sorted_projects %}
+		{% for thumb in project.thumb %}     
+			<div class="gallery-card columns medium-6 small-12">
+				<div class="gallery-img">      
+			        <a class="portfolio-thumb" href="/{{ project.permalink }}">
+			        	<img src="/{{ project.thumb }}">
+			        </a>
+				</div>
+
+				<div class= "gallery-card-label">
+					<a class ="gallery-card-title" href="/{{ project.permalink }}"> {{ project.gallery-title }} </a>
+					<h5 class ="gallery-card-type"> {{ project.type }}</h5>
+				</div>
+			</div>
+		{% endfor %}
+	{% endfor %}
+	
+</div>
+
+
+
+
+<!-- <ul class="gallery small-block-grid-2 medium-block-grid-4">	    	
 	{% for project in sorted_projects %}
 		{% for thumb in project.thumb %}     
 			<li>      
@@ -8,9 +33,13 @@
 		        	<img src="/{{ project.thumb }}">
 		        </a>
 			</li>
+			<div class= "gallery-thumb-title">
+				<a class ="project-gallery-title" href="/{{ project.permalink }}"> {{ project.gallery-title }} </a>
+				<h5 class ="project-gallery-type"> {{ project.type }}</h5>
+			</div>
 		{% endfor %}
 	{% endfor %}
-</ul>
+</ul> -->
 
 
 
