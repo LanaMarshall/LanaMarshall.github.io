@@ -22,7 +22,8 @@
     - name: ms-pay-livecard.png
       header: Live Card
       caption: Microsoft Pay features a “live card” design to make entering card information more intuitive. Card information is entered as it appears in real life.
-    - name: ms-pay-desktop.png
+    - name: ms-pay-desktop-1.png
+    - name: ms-pay-desktop-2.png
       header: Cross-platform integration
       caption: Microsoft Pay was designed to integrate into third-party websites for easy and secure payment.
     - name: ms-illustrations.png
