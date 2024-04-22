@@ -9,17 +9,35 @@
   permalink: microsoft-pay/
   category: 
   published: true
-  description: "During my time working for Microsoft, I drew and animated several empty state illustrations for various products and web pages. These were drawn in Adobe Illustrator and animated in After Effects. Contact me to learn more about the products these were used in."
+  description: "Microsoft Pay is a digital wallet that allows users to easily and securely complete payments across various sites and platforms."
+  problem: The Microsoft Store lacked a way to easily access stored payment and shipping information when making purchases. Additionally, Microsoft brand loyalists desired a digital wallet solution outside of Apple Pay and Google Pay. 
+  solution: I worked with a Senior Designer on the store team to craft a digital wallet that Microsoft loyalists could trust and use within the Microsoft Store, as well as across the web. Users can save multiple addresses and cards for easy access later. 
+  role: I was in charge of the visual and UI design for this project. I also created original illustrations that fit within Microsoft's brand guidelines and animated those illustrations.
   thumb: img/thumbnails/msft-pay-thumb.png
-  imagefolder: img/animations
+  imagefolder: img/ms-pay
   images:
-    - name: empty_state_cart_cricket.gif
-    - name: empty_state_cart_desert.gif
+    - name: ms-pay-mobile.png
+      header: Easily access stored information
+      caption: Users can choose between multiple saved cards and addresses, as well as add new information. 
+    - name: ms-pay-livecard.png
+      header: Live Card
+      caption: Microsoft Pay features a “live card” design to make entering card information more intuitive. Card information is entered as it appears in real life.
+    - name: ms-pay-desktop.png
+      header: Cross-platform integration
+      caption: Microsoft Pay was designed to integrate into third-party websites for easy and secure payment.
+    - name: ms-illustrations.png
+      header: Original brand illustrations
+      caption: A sampling of vector illustrations I created for Microsoft Pay and the Microsft Store. See animated versions below.
+    - name: ms-pay-modals.png
+      header: 
+      caption: Success and error illustrations in Microsoft Pay’s desktop modal
+    - name: ms-cricket.gif
+    - name: ms-desert.gif
       caption: "Illustrations used for an empty cart." 
-    - name: empty_state_404_storefront.gif
+    - name: ms-404.gif
       caption: "404 error illustration"
     - name: generic-error2.gif
-    - name: payment-error.gif 
+    - name: payment-error.gif
       caption: "Payment error illustrations"
     - name: success4.gif
       caption: "Successful purchase illustration"
@@ -40,10 +58,11 @@
   learn-more-link: "/contact/"
   learn-more-text: "Contact me"
   thumb: img/thumbnails/msft-config-thumb.png
-  video: "//player.vimeo.com/video/205441657?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
-  imagefolder: img/microsoft
+  imagefolder: img/microsoft-config
   images:
-    - name: rt-logo.png
+    - name: surface-config-collection.png
+      header: Cross-platform integration
+      caption: Microsoft Pay was designed to integrate into third-party websites for easy and secure payment.
     - name: rt-logo-sketch3.jpg
     - name: rt-demo.gif
     - name: rt-phone-hands.png

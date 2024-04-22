@@ -13,6 +13,28 @@ layout: default
         <div class="project-description">
           <p>{{ project.description }}</p>
         </div>
+        
+        {% for problem in project.problem %}  
+          <div class="project-description-subcategory">
+            <h2>The Problem</h2>
+            <p>{{ project.problem }}</p>
+          </div>
+        {% endfor %}
+
+        {% for solution in project.solution %}  
+          <div class="project-description-subcategory">
+            <h2>The Solution</h2>
+            <p>{{ project.solution }}</p>
+          </div>
+        {% endfor %}
+
+        {% for role in project.role %}  
+          <div class="project-description-subcategory">
+            <h2>My Role</h2>
+            <p>{{ project.role }}</p>
+          </div>
+        {% endfor %}
+        
         <div>
           <p><a href= "{{ project.learn-more-link }}" target="_blank"> {{ project.learn-more-text }}</a></p>
         </div>
@@ -36,7 +58,7 @@ layout: default
               {% if image.caption %}
                 <div class= "project-img-caption"> 
                   {% if image.header %} 
-                    <h3>{{ image.header }}</h3> 
+                    <h4>{{ image.header }}</h4> 
                   {% endif %}
                   
                   <p>{{ image.caption }}</p>

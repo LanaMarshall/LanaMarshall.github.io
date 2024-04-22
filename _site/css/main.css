@@ -357,19 +357,19 @@ header.smaller img {
 }
 
 /* Caption Text Styling */
-.portfolio-img-column .project-img-caption h3 {
+.portfolio-img-column .project-img-caption h4 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.2em;
+    font-size: 1em;
     margin: 0 0 5px 0;
     color: #323232;
 }
 
 .portfolio-img-column .project-img-caption p {
     margin: 0px;
-    font-size: .85em;
+    font-size: .8em;
     font-weight: 400;
     letter-spacing: .01em;
-    color: #777;
+    color: #323232;
     line-height: 180%
 }
 
