@@ -54,9 +54,10 @@
   permalink: microsoft-configurator/
   category: 
   published: true
-  description: "Please contact me for a sampling of my Microsoft work, which includes UX/UI design, iconography, illustrations and motion design."
-  learn-more-link: "/contact/"
-  learn-more-text: "Contact me"
+  description: "Surface Configurator walks customers through buying options to help them easily select a new Surface Laptop. The configurator was customized for smooth experiences on mobile, desktop and Xbox."
+  problem: When purchasing a Surface laptop or custom Xbox controller, Microsoft customers were presented with a long list of options, some of which were technical. The process of selecting these options needed to be more smooth, intuitive and organized.
+  solution: Breaking down the configuration steps into categories with helpful tips offered along the way created a less overwhelming user experience. 
+  role: I was in charge of the visual and UI design for this project. I worked with a senior designer who offered UX guidance and feedback.
   thumb: img/thumbnails/msft-config-thumb.png
   imagefolder: img/microsoft-config
   images:
