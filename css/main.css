@@ -273,7 +273,9 @@ header.smaller img {
         padding: 0 4px;
     }
 
-    
+    .zoom {
+        margin:0;
+    }
 }
 
 
@@ -442,6 +444,9 @@ p .locked-project-description {
     text-align: center;
     color: #777777;
 }
+
+
+
 
 /* -------------------- ABOUT PAGE -------------------- */
 
