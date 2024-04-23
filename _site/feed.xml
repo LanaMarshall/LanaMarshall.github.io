@@ -86,8 +86,8 @@
     <description>Seattle Visual Designer and Creative</description>
     <link>http://localhost:1117/</link>
     <atom:link href="http://localhost:1117/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Apr 2024 15:26:50 -0700</pubDate>
-    <lastBuildDate>Mon, 22 Apr 2024 15:26:50 -0700</lastBuildDate>
+    <pubDate>Mon, 22 Apr 2024 17:41:41 -0700</pubDate>
+    <lastBuildDate>Mon, 22 Apr 2024 17:41:41 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -231,7 +231,10 @@
       <!-- jQuery -->
       <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 
-
+  <!-- Image zoom -->
+      <script src="/js/medium-zoom.min.js"></script>
+      <script src="/js/main.js"></script>
+      
   <!-- Sticky Shrinking Header -->
       <script src="/js/classie.js"></script>
       <script>
@@ -265,10 +268,6 @@
       </script>
 
 
-  <!-- Image zoom -->
-      <script src="/js/medium-zoom.min.js"></script>
-
-      <script src="/js/main.js"></script>
 
 
   </body>

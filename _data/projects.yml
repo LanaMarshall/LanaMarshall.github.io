@@ -55,27 +55,30 @@
   permalink: microsoft-configurator/
   category: 
   published: true
-  description: "Surface Configurator walks customers through buying options to help them easily select a new Surface Laptop. The configurator was customized for smooth experiences on mobile, desktop and Xbox."
+  description: "Surface Configurator walks customers through buying options to help them easily select a new Surface Laptop or custom Xbox controller. The configurator was customized for smooth experiences on mobile, desktop and Xbox."
   problem: When purchasing a Surface laptop or custom Xbox controller, Microsoft customers were presented with a long list of options, some of which were technical. The process of selecting these options needed to be more smooth, intuitive and organized.
   solution: Breaking down the configuration steps into categories with helpful tips offered along the way created a less overwhelming user experience. 
   role: I was in charge of the visual and UI design for this project. I worked with a senior designer who offered UX guidance and feedback.
   thumb: img/thumbnails/msft-config-thumb.png
-  imagefolder: img/microsoft-config
+  imagefolder: img/ms-config
   images:
     - name: surface-config-collection.png
-      header: Cross-platform integration
-      caption: Microsoft Pay was designed to integrate into third-party websites for easy and secure payment.
-    - name: rt-logo-sketch3.jpg
-    - name: rt-demo.gif
-    - name: rt-phone-hands.png
-    - name: rt-multimodal.png
-    - name: rt-network.png
-    - name: rt-use-cases.png
-    - name: rt-email-banner.jpg
-    - name: rt-zipcar2.png
-    - name: rt-zipcar3.png
-    - name: rt-dev-site1.jpg
-    - name: rt-dev-site2.jpg
+      header: Surface Laptop Configurator
+      caption: The configurator was designed to work smoothly and intuitively across mobile, desktop and Xbox.
+    - name: surface-config-mobile-flow.png
+      header: Mobile first design
+      caption: A mobile flow for the surface configurator. To avoid a long vertical scroll, configuration steps were broken down into horizontally scrolling "drawers". The progress bar at the top lets users know where they're at in the process. 
+    - name: config-desktop-1.png
+    - name: config-desktop-2.png
+    - name: config-desktop-3.png
+    - name: config-desktop-4.png
+      header: Surface configurator for desktop
+      caption: On desktop, the configuration "drawers" are laid out vertically to make use of the extra space. Users can navigate back to previous selections easily by expanding and collapsing each drawer. 
+    - name: xdl-config-collection.png
+      header: Xbox Design Lab configurator
+      caption: The updated configurator flow was also applied to the Xbox Design Lab to walk users through creating custom controllers.
+    - name: xdl-config-mobile-flow.png
+    - name: xdl-desktop-1.png
 
 
 
