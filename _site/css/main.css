@@ -279,6 +279,9 @@ header.smaller img {
 
 /* -------------------- THUMBNAIL GALLERY -------------------- */ 
 
+.gallery {
+    max-width: 1199.98px;
+}
 
 .gallery-img {
 	overflow: hidden;
@@ -301,7 +304,7 @@ header.smaller img {
 
 .gallery-contain.row {
     width: 90%;
-    max-width: 2000px;
+    max-width: 1199.98px;
 }
 
 .gallery-contain ul {
